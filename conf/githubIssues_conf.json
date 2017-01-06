@@ -1,0 +1,12 @@
+{
+	"host": "https://api.github.com",
+	"query": "state=all",
+	"auth": "basic",
+	"authInfo": {
+		"user": "userid",
+		"password": "password"
+	},
+	"repos": [
+		"kaakaa/go-jsonapi-river"
+	]
+}

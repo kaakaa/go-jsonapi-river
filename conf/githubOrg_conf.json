@@ -1,0 +1,12 @@
+{
+	"host": "https://api.github.com",
+	"query": "",
+	"auth": "basic",
+	"authInfo": {
+		"user": "user",
+		"password": "password"
+	},
+	"orgs": [
+		"google"
+	]
+}

@@ -1,0 +1,6 @@
+hash: 43fa88dcd1eae4e1e2eca00b34ad29245bacddd750e826bbc922363afbe5fc59
+updated: 2016-11-17T10:13:03.551519129+09:00
+imports:
+- name: github.com/go-sql-driver/mysql
+  version: a732e14c62dde3285440047bba97581bc472ae18
+testImports: []

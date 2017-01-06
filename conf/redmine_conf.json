@@ -1,0 +1,9 @@
+{
+	"host": "http://redmine.example.com",
+	"query": "?status_id=*",
+	"auth": "",
+	"authInfo": {},
+	"projects": [
+		"sample-projects"
+	]
+}

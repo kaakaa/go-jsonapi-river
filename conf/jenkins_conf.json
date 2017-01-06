@@ -1,0 +1,12 @@
+{
+	"host": "http://jenkins.example.com",
+	"query": "tree=allBuilds[number,displayName,result,timestamp,duration]&depth=1",
+	"auth": "",
+	"authInfo": {
+		"user": "user",
+		"token": "usertoken"
+	},
+	"jobs": [
+		"sample-job"
+	]
+}
